@@ -1,7 +1,6 @@
 # 💫 About Me:
 I’m a self-taught frontend developer who enjoys turning designs into clean, pixel-perfect interfaces using HTML, CSS, React, and Tailwind. I’m big on the small things—spacing, consistency, and visual balance—because that’s where good UI quietly proves itself. I work with consistency, a strong design sense, and just enough obsession to make things feel right. Currently focused on frontend and actively job-hunting, I believe great user experiences are built with intention… and a bit of patience
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/hannibal_lecter1631) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rupak-mukherjee-fed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hannibal1631) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukherjeerupak860@gmail.com) 
 
@@ -11,10 +10,6 @@ I’m a self-taught frontend developer who enjoys turning designs into clean, pi
 ![](https://github-readme-stats.vercel.app/api?username=hannibal1631&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hannibal1631&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannibal1631&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=hannibal1631&icon=5&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 👀 Viewer Count:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannibal1631&label=Profile%20views&color=0e75b6&style=flat" alt="hannibal1631" /> </p>
